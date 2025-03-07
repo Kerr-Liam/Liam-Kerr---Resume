@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Liam Kerr!  
 
-### 💻 Mechatronic Engineering Student | Aspiring IT & Automation Developer  
+### 💻 Mechatronic Engineering Student | Aspiring IT Professional 
 
 I'm a **Mechatronic Engineering** student at **Western Sydney University**, passionate about **software development, automation, and problem solving**. I enjoy working on personal projects that combine **coding, electronics, and hardware**.  
 
