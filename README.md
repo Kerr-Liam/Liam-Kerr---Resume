@@ -34,6 +34,5 @@ Here are some of my featured projects:
 - **Hardware:** Raspberry Pi, Arduino, Breadboarding  
 - **Tools:** GitHub, API Integration, Circuit Design  
 
-### 📫 Get in Touch   
-- **GitHub:** [github.com/your-username](https://github.com/your-username)  
+### 📫 Get in Touch    
 - **Email:** david_liam_kerr@hotmail.com  
