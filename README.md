@@ -11,7 +11,7 @@ Here are some of my featured projects:
 - A Python-based **Dungeons & Dragons** character creator with an interactive adventure.  
 - Allows players to **select races, classes, and equipment** while automatically calculating stats.  
 - Includes **randomly generated encounters** for a unique experience.  
-- **🔗 [GitHub Repo](https://github.com/your-repo-link-here)**  
+- **🔗 [https://github.com/Kerr-Liam/Liam-Kerr---Resume/blob/main/DnD%20Character%20Creator.py]**  
 
 #### 🗣️ **Voice-Controlled AI System** *(Python)*  
 - A **voice-activated AI assistant** that can:  
