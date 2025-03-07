@@ -27,7 +27,7 @@ Here are some of my featured projects:
   - **4 handheld buzzers** with LED indicators  
   - **Reset functionality** for new rounds  
 - Demonstrates **hardware-software integration**.  
-- **🔗 [GitHub Repo](https://github.com/your-repo-link-here)**  
+- **🔗 [https://github.com/Kerr-Liam/Liam-Kerr---Resume/blob/main/Game%20Show%20Buzzer%20System.py]**  
 
 ### 🛠️ Skills & Technologies  
 - **Programming:** Python 
