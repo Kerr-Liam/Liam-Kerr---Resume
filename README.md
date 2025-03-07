@@ -19,7 +19,7 @@ Here are some of my featured projects:
   - Open websites in the user’s preferred browser  
   - Provide **information from the internet**  
 - Uses **SpeechRecognition library** and API integration.  
-- **🔗 (https://github.com/Kerr-Liam/Liam-Kerr---Resume/blob/main/Voice-Controlled%20AI%20System.py)**  
+- **🔗 [https://github.com/Kerr-Liam/Liam-Kerr---Resume/blob/main/Voice-Controlled%20AI%20System.py]**  
 
 #### 🎮 **Game Show Buzzer System** *(Raspberry Pi & Python)*  
 - A **custom buzzer system** for game nights using **Raspberry Pi Pico** and breadboard circuitry.  
